@@ -1,6 +1,6 @@
-public struct NumbersInjector {
-    public private(set) var text = "Hello, World!"
+import Foundation
+import Swinject
 
-    public init() {
-    }
+public final class NumbersInjector {
+    
 }
