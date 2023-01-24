@@ -1,3 +1,3 @@
 # NumbersInjector
 
-A description of this package.
+External Swift package for dependency injection between modules using **Swinject** as a external dependency
