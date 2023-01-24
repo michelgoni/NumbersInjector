@@ -10,7 +10,7 @@ public final class NumbersInjector {
 
     private init() {}
 
-    func apply(_ assemblies: [Assembly]) {
+    public func apply(_ assemblies: [Assembly]) {
         assembler.apply(assemblies: assemblies)
     }
 
